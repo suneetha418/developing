@@ -41,7 +41,7 @@ public class UserController {
 		
 		return rs;
 		
-		
+		//this class is controller
 		
 		
 		
